@@ -36,5 +36,5 @@
 
 - **Backend:** PHP  
 - **Frontend:** HTML, CSS  
-- **Database:** MySQL (update if different)
+- **Database:** MySQL 
 
