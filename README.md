@@ -1,6 +1,6 @@
 # 🎉 Festipal
 
-- Your one-stop event management portal to discover & register for all college fests and events in Manipal!
+ Your one-stop event management portal to discover & register for all college fests and events in Manipal!
 
 ---
 
